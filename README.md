@@ -1,5 +1,6 @@
 # EcoDecibel
 
+Use at your own risk, expect everything to crash and burn.  
 
 ## Features:
 * Easy to use, just plug and start measuring.  
