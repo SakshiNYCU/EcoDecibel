@@ -1,4 +1,4 @@
-# EcoDecible
+# EcoDecibel
 
 
 ## Features:
@@ -13,7 +13,7 @@
 
 
 
-## EcoDecible components: 
+## EcoDecibel components: 
 * SAMD21 microcontroller 
 * SPH0645 Microphone
 * DS3231 RTC Clock
