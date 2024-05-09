@@ -50,7 +50,10 @@ Use at your own risk, expect everything to crash and burn.
 8. Profit :-) 
 
 
+## Important source
 
+https://github.com/waagsociety/amsterdam-sounds-kit  
+https://gitlab.waag.org/lodewijk/amsterdam-sounds-kit  
 
 
 
