@@ -2,6 +2,9 @@
 
 Use at your own risk, expect everything to crash and burn.  
 
+**Research Question:**
+Can an IoT-based noise measurement device, EcoDecibel, provide accurate and continuous noise monitoring comparable to standard noise meters, and how effectively can it forecast noise levels using various predictive models?
+
 ## Features:
 * Easy to use, just plug and start measuring.  
 * Consume very little power.  
@@ -55,5 +58,6 @@ Use at your own risk, expect everything to crash and burn.
 https://github.com/waagsociety/amsterdam-sounds-kit  
 https://gitlab.waag.org/lodewijk/amsterdam-sounds-kit  
 
-
-
+## Testing and Performance
+We evaluated the performance of the EcoDecibel across various settings and compared its accuracy against established professional instruments. 
+The results demonstrate that the EDM performs consistently and reliably in multiple scenarios, making it a viable environmental noise monitoring and prediction tool. When placed side-by-side with Class 1 and Class 2 sound meters, it showed an R-squared value of 0.983 when compared to the Class 2 meter and 0.949 when compared to the Class 1 meter. This level of accuracy is sufficient for many practical applications, allowing the EDM to be used as a cost-effective alternative to more expensive professional-grade meters. The field verification tests in different outdoor environments also confirmed its robustness and reliability. 
